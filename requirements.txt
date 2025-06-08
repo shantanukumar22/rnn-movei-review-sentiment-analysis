@@ -1,0 +1,21 @@
+# Apple Silicon (M1/M2/M3) optimized TensorFlow + packages
+tensorflow-macos==2.15.0
+tensorflow-metal==1.1.0
+
+# Data processing and visualization
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# Deep Learning
+keras
+
+# Web app / dashboard
+streamlit
+
+# Optional for TensorFlow logging
+tensorboard
+
+# Optional: Scikeras for sklearn-style wrapper (match your existing setup)
+scikeras
